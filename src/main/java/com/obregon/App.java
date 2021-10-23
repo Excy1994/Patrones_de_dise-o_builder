@@ -16,6 +16,6 @@ public class App {
             cocinero.crearPizza();
             pizza = cocinero.getPizza();
             System.out.println(pizza.toString());
-        
+
     }
 }
